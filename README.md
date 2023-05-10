@@ -9,7 +9,7 @@ This script lets you set up your own Gitlab server in a couple of minutes, using
 1. Download the installer script
 
 ```
-curl -O https://raw.githubusercontent.com/Scriptease-Automation/gitlab/master/gitlab.sh
+curl -O https://raw.githubusercontent.com/manch93/gitlab/master/gitlab.sh
 ```
 
 2. Make it executable
